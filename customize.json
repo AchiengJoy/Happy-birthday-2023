@@ -1,14 +1,14 @@
 {
   "greeting": "Dearest",
-  "name": "Robin",
+  "name": "Joy",
   "greetingText": "To many years of greatness.",
   "wishText": "As I age, my wild heart will live for younger days;)",
-  "imagePath": "img/IMG-20210402-WA0038.jpg",
-  "text1": "What a birthday!!! :D \n 27th jan 2023",
-  "textInChatBox": "You rock! Thanks for the birthday wishes,",
+  "imagePath": "img/BirthdayImage.jpeg",
+  "text1": "What a birthday!!! :D \n 19th Feb 2023",
+  "textInChatBox": "I am thankful for a life lived in grace and favour,",
   "sendButtonLabel": "Send",
   "text2": "I made this to mark a day and ...",
-  "text3": "celebrate you Champs for droping a note!",
+  "text3": "commemorate the most important day of my life!",
   "text4": "Was chilling, decided to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
@@ -17,8 +17,8 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now Dm me your views and feel free to fork my repo.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "You rock! Thanks for the birthday wishes.",
+  "replayText": "God  bless and click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
 
